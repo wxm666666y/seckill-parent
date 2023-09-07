@@ -4,11 +4,6 @@ import com.bmw.seckill.common.exception.ErrorMessage;
 
 import java.io.Serializable;
 
-/**
- * @author bobo
- * @Description:
- * @date 2019-03-11 11:47
- */
 public class BaseResponse<T> implements Serializable {
     public static final BaseResponse OK = new BaseResponse(0, "成功", "");
     private Integer code;
