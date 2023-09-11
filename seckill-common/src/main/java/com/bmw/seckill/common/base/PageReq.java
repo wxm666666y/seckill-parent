@@ -4,11 +4,7 @@ import javax.validation.constraints.NotNull;
 import java.io.Serializable;
 
 /**
- * <Description>
- *
- * @author yalin
- * @version 1.0
- * @date 2020/07/29
+ * 中北大学软件学院王袭明版权声明(c)
  */
 public class PageReq implements Serializable {
 

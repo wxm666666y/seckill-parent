@@ -10,9 +10,6 @@ import org.slf4j.LoggerFactory;
 
 /**
  * Cookie工具类.
- *
- * @author dangdang
- *
  */
 public abstract class CookieUtils {
 

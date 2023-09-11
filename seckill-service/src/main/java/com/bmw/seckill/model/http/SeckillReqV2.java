@@ -6,11 +6,6 @@ import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.NotNull;
 import java.io.Serializable;
 
-/**
- * @author han
- * @version 1.0
- * @date 2020/07/29
- */
 @Data
 public class SeckillReqV2 implements Serializable {
 
